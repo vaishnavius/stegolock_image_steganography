@@ -18,12 +18,12 @@ This project is a web application that allows users to perform image steganograp
 🚀 Getting Started
 🔧 Installation
 Clone the repository:
-git clone  https://github.com/vaishnavius/stegolock_image_steganography.git
-cd steganography-app  
-Install the required dependencies:
-pip install -r requirements.txt 
-Run the application:
-streamlit run app.py  
+- git clone  https://github.com/vaishnavius/stegolock_image_steganography.git
+- cd steganography-app  
+- Install the required dependencies:
+- pip install -r requirements.txt 
+- Run the application:
+- streamlit run app.py  
 🧪 Usage
 Encode a Message:
 
